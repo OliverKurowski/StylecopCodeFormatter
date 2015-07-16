@@ -1,0 +1,2 @@
+﻿"C:\Projects\StylecopCodeFormatter\ConsoleApplication2\ConsoleApplication2.sln"
+"C:\Projects\StylecopCodeFormatter\GitLauncher\src\patchtool.sln"
